@@ -1,0 +1,17 @@
+Noncutters for pMAL-c2E 
+
+AarI, AatI, AatII, AbsI, AcvI, AflII, AgeI, AhlI, AleI, ArsI, AscI, AsiGI,
+AsiSI, Asp700I, AspA2I, AsuII, AsuNHI, AvrII, AxyI, BaeI, BanIII, BarI, BbrPI,
+BbuI, BbvCI, BcuI, BfrI, BlnI, BmtI, BoxI, BplI, Bpu14I, Bsa29I, Bse21I, BseCI,
+BseRI, BseX3I, BshVI, BshTI, Bsp19I, Bsp68I, Bsp119I, Bsp1407I, BspDI, BspOI,
+BspTI, BspT104I, BspXI, BsrGI, BssT1I, Bst98I, BstAFI, BstAUI, BstBI, BstENI,
+BstPAI, BstSNI, BstZI, Bsu15I, Bsu36I, BsuTUI, BtuMI, CciNI, Cfr9I, Cfr42I,
+ClaI, CpoI, CsiI, CspI, Csp45I, CspAI, CspCI, EagI, EclXI, Eco52I, Eco72I,
+Eco81I, Eco105I, Eco130I, Eco147I, EcoNI, EcoT14I, EcoT22I, ErhI, FalI, FseI,
+I-CeuI, I-PpoI, I-SceI, KflI, KspI, MabI, MauBI, MfeI, Mph1103I, MreI, MroXI,
+MspCI, MssI, MunI, Nb.BbvCI, NcoI, NheI, NotI, NruI, NsiI, NspV, Nt.BbvCI, OliI,
+PacI, PaeI, PaeR7I, PalAI, PaqCI, PasI, PceI, PdmI, PI-PspI, PI-SceI, PinAI,
+PmaCI, PmeI, PmlI, PshAI, PspCI, PspXI, PsrI, RgaI, RigI, RruI, RsrII, Rsr2I,
+SacII, SanDI, SauI, SexAI, SfaAI, SfiI, Sfr274I, Sfr303I, SfuI, SgfI, SgrAI,
+SgrBI, SgrDI, SgsI, SlaI, SmaI, SnaBI, SpeI, SphI, SrfI, SseBI, SspBI, SstII,
+StuI, StyI, TspMI, Vha464I, XagI, XhoI, XmaI, XmaCI, XmaJI, XmnI, ZraI, Zsp2I

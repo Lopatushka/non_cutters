@@ -1,0 +1,17 @@
+Noncutters for pCMV-3Tag-1A
+
+AarI, AccIII, Acc113I, AccB7I, AclI, AcvI, AfeI, AflII, AgeI, AhdI, AhlI, AjiI,
+AjuI, Aor13HI, Aor51HI, ArsI, AscI, AsiGI, AsiSI, Asp700I, AspEI, BaeI, BarI,
+BbrPI, BbvCI, BcgI, BcuI, BfrI, BglII, BlpI, BmcAI, BmeRI, BmgBI, BoxI, Bpu10I,
+Bpu1102I, BsaMI, BseAI, BsePI, BsgI, BshTI, BsiWI, BsmI, BsmBI, Bsp13I, Bsp68I,
+Bsp1407I, Bsp1720I, BspEI, BspQI, BspTI, BsrGI, BssHII, BssNAI, Bst6I, Bst98I,
+Bst1107I, BstAFI, BstAUI, BstEII, BstENI, BstHPI, BstPI, BstPAI, BstZ17I, BtrI,
+BtsI, BtsαI, BtuMI, CelII, CspAI, DriI, Eam1104I, Eam1105I, EarI, EclHKI,
+Eco47III, Eco72I, Eco91I, EcoNI, EcoO65I, Esp3I, FseI, FspAI, HpaI, I-CeuI,
+I-PpoI, I-SceI, KflI, Kpn2I, Ksp632I, KspAI, LguI, MauBI, MfeI, MreI, MroI,
+MroXI, MspCI, MssI, MunI, Mva1269I, Nb.BbvCI, Nb.Bpu10I, Nb.BsmI, Nb.BtsI,
+Nb.Mva1269I, NruI, Nt.BbvCI, Nt.Bpu10I, Nt.BspQI, PalAI, PaqCI, PauI, PciSI,
+PctI, PdmI, Pfl23II, PflMI, PI-PspI, PI-SceI, PinAI, PmaCI, PmeI, PmlI, PpuMI,
+PshAI, Psp5II, Psp1406I, PspCI, PspEI, PspLI, PspPPI, PsrI, PteI, RgaI, RigI,
+RruI, SanDI, SapI, SbfI, ScaI, SdaI, SfaAI, SgfI, SgrAI, SgrDI, SgsI, SmiI,
+SpeI, Sse8387I, SspBI, SwaI, TstI, Van91I, Vha464I, XagI, XbaI, XcmI, XmnI, ZrmI

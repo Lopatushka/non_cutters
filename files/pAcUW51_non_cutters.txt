@@ -1,0 +1,21 @@
+Noncutters for pAcUW51
+
+AarI, AatI, AbsI, AccI, AccIII, Acc36I, Acc65I, AccB7I, AcvI, AflII, AhlI, AjuI,
+AlfI, Ama87I, Aor13HI, ApaI, ArsI, AscI, AsiSI, AspI, Asp718I, AspA2I, AsuII,
+AsuNHI, AvaI, AvrII, AxyI, BaeI, BalI, BarI, BbrPI, BbuI, BcuI, BfrI, BfuAI,
+BlnI, BmeT110I, BmtI, BoxI, Bpu14I, Bse21I, BseAI, BsePI, BseX3I, BsiHKCI,
+BsiWI, BsoBI, Bsp13I, Bsp19I, Bsp68I, Bsp119I, Bsp120I, BspEI, BspMI, BspOI,
+BspTI, BspT104I, BssHII, BssNAI, BssT1I, Bst98I, Bst1107I, BstAFI, BstAPI,
+BstBI, BstDSI, BstEII, BstENI, BstHPI, BstPI, BstPAI, BstXI, BstZI, BstZ17I,
+Bsu36I, BtgI, BtuMI, BveI, CciNI, Cfr9I, Cfr42I, CpoI, CsiI, CspI, Csp45I, EagI,
+Ecl136II, EclXI, Eco32I, Eco52I, Eco53kI, Eco72I, Eco81I, Eco88I, Eco91I,
+Eco130I, Eco147I, EcoICRI, EcoNI, EcoO65I, EcoRV, EcoT14I, ErhI, FalI, FauNDI,
+FblI, FseI, FspAI, HincII, HindII, HpaI, I-CeuI, I-PpoI, I-SceI, KflI, KpnI,
+Kpn2I, KspI, KspAI, MabI, MauBI, MlsI, MluNI, Mox20I, MreI, MroI, MscI, Msp20I,
+MspCI, MssI, NcoI, NdeI, NheI, NotI, NruI, NspV, PaeI, PaeR7I, PalAI, PaqCI,
+PasI, PauI, PceI, Pfl23II, PflFI, PflMI, PfoI, PI-PspI, PI-SceI, PmaCI, PmeI,
+PmlI, PshAI, Psp124BI, PspCI, PspEI, PspLI, PspOMI, PspXI, PstI, PsyI, PteI,
+RgaI, RigI, RruI, RsrII, Rsr2I, SacI, SacII, SalI, SanDI, SauI, SbfI, SdaI,
+SexAI, SfaAI, SfiI, Sfr274I, Sfr303I, SfuI, SgfI, SgrBI, SgrDI, SgsI, SlaI,
+SmaI, SpeI, SphI, SrfI, Sse8387I, SseBI, SstI, SstII, StuI, StyI, TspMI, TstI,
+Tth111I, Van91I, Vha464I, XagI, XhoI, XmaI, XmaCI, XmaJI, XmiI
