@@ -36,5 +36,5 @@ def main(file_paths):
         print("No common non-cutters found across all files.")
 
 if __name__ == "__main__":
-    file_list = ['./files/pMal_non_cutters.txt', './files/pCMV-3Tag-1A_non_cutters.txt', './files/pAcUW51_non_cutters.txt']
+    file_list = ['./files/insertion.txt', './files/pcDNA3.1_myc_His.txt', './files/pAcUW51_non_cutters.txt']
     main(file_list)

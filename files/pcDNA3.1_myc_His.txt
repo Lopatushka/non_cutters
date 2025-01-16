@@ -1,0 +1,14 @@
+Noncutters for pcDNA3.1 myc-His(-) C
+
+AarI, AbsI, AccIII, AccB7I, AcvI, AfeI, AgeI, AjiI, AjuI, AleI, Aor13HI,
+Aor51HI, ArsI, AscI, AsiGI, AsiSI, AxyI, BaeI, BanIII, BarI, BbrPI, BbvCI, BlpI,
+BmgBI, BoxI, Bpu1102I, Bsa29I, Bse21I, BseAI, BseCI, BsgI, BshVI, BshTI, BsiWI,
+BsmBI, Bsp13I, Bsp1407I, Bsp1720I, BspDI, BspEI, BspXI, BsrGI, BstAUI, BstEII,
+BstENI, BstHPI, BstPI, BstPAI, Bsu15I, Bsu36I, BsuTUI, BtrI, CelII, Cfr42I,
+ClaI, CspAI, Eco47III, Eco72I, Eco81I, Eco91I, EcoNI, EcoO65I, Esp3I, FseI,
+FspAI, HpaI, I-CeuI, I-PpoI, I-SceI, KflI, Kpn2I, KspI, KspAI, MauBI, MreI,
+MroI, Nb.BbvCI, Nt.BbvCI, OliI, PacI, PalAI, PaqCI, PasI, Pfl23II, PflMI,
+PI-PspI, PI-SceI, PinAI, PmaCI, PmlI, PpuMI, PshAI, Psp5II, PspCI, PspEI, PspLI,
+PspPPI, PsrI, RgaI, RigI, SacII, SanDI, SauI, SbfI, SdaI, SfaAI, SfiI, Sfr303I,
+SgfI, SgrAI, SgrBI, SgsI, SmiI, SrfI, Sse8387I, SspBI, SstII, SwaI, TstI,
+Van91I, XagI, XcmI
